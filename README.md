@@ -17,6 +17,6 @@ http://[localhost]:8000
 
 
 
-https://github.com/GrahamDumpleton/mod_wsgi-docker
-https://hub.docker.com/r/grahamdumpleton/mod-wsgi-docker/
-http://blog.dscpl.com.au/2014/12/hosting-python-wsgi-applications-using.html
+* https://github.com/GrahamDumpleton/mod_wsgi-docker
+* https://hub.docker.com/r/grahamdumpleton/mod-wsgi-docker/
+* http://blog.dscpl.com.au/2014/12/hosting-python-wsgi-applications-using.html
