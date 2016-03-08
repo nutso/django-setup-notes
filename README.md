@@ -13,4 +13,10 @@ docker build -t my-test-django .
 
 docker run -dit -p 8000:80 --name test-django my-test-django
 
-http://<localhost>:8000
+http://[localhost]:8000
+
+
+
+https://github.com/GrahamDumpleton/mod_wsgi-docker
+https://hub.docker.com/r/grahamdumpleton/mod-wsgi-docker/
+http://blog.dscpl.com.au/2014/12/hosting-python-wsgi-applications-using.html
