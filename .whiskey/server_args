@@ -1,0 +1,3 @@
+--working-directory testdjango
+--application-type module
+testdjango.wsgi
